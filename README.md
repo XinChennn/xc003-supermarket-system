@@ -1,4 +1,4 @@
-**完整代码收费 +  <img src="E:/devEnvironment/IDEA_Programs/hotel/pictures/qq.svg" width="20"> 316595344     或   <img src="E:/devEnvironment/IDEA_Programs/hotel/pictures/weChat.svg" width="20"> lz316595344  咨询** 
+**完整代码收费 +  <img src="./pictures/qq.svg" width="20"> 316595344     或   <img src="./pictures/weChat.svg" width="20"> lz316595344  咨询** 
 
 **接毕业设计和论文**
 
@@ -68,4 +68,4 @@ Java、IDEA、Navicat、Git、Maven、MySQL
 
 
 
-**需要完整代码 +  <img src="E:/devEnvironment/IDEA_Programs/hotel/pictures/qq.svg" width="20"> 316595344     或   <img src="E:/devEnvironment/IDEA_Programs/hotel/pictures/weChat.svg" width="20"> lz316595344  咨询**
+**需要完整代码 +  <img src="./pictures/qq.svg" width="20"> 316595344     或   <img src="./pictures/weChat.svg" width="20"> lz316595344  咨询**

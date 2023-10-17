@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.yeqifu</groupId>
-	<artifactId>warehouse</artifactId>
+	<artifactId>xc003-supermarket-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>warehouse</name>
 	<description>超市管理系统</description>
